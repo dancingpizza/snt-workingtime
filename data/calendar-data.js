@@ -1,0 +1,3681 @@
+window.SNT_CALENDAR = {
+  "generatedAt": "2026-08-15T14:05:25.406Z",
+  "years": [
+    2026,
+    2027
+  ],
+  "sources": {
+    "federal": "https://www.isdayoff.ru/",
+    "regional": "https://calendarific.com/"
+  },
+  "days": {
+    "2026-01-01": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-02": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-03": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-04": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-05": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-06": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-07": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-08": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-09": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-10": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-11": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-17": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-18": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-24": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-25": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-01-31": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-01": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-07": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-08": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-14": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-15": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-21": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-22": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-23": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-02-28": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-01": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-07": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-08": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-09": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-14": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-15": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-20": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": {
+        "nameRu": "Ураза-байрам",
+        "nameTt": "Ураза бәйрәме"
+      }
+    },
+    "2026-03-21": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-22": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-28": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-29": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-03-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-04": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-05": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-11": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-12": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-18": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-19": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-25": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-26": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-04-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-01": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-02": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-03": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-09": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-10": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-11": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-16": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-17": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-23": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-24": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-27": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": {
+        "nameRu": "Курбан-байрам",
+        "nameTt": "Корбан бәйрәме"
+      }
+    },
+    "2026-05-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-30": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-05-31": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-06": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-07": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-12": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-13": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-14": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-20": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-21": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-27": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-28": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-06-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-04": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-05": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-11": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-12": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-18": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-19": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-25": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-26": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-07-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-01": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-02": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-08": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-09": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-15": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-16": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-22": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-23": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-29": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-08-30": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": {
+        "nameRu": "День Республики Татарстан",
+        "nameTt": "Татарстан Республикасы көне"
+      }
+    },
+    "2026-08-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-05": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-06": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-12": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-13": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-19": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-20": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-26": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-27": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-09-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-03": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-04": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-10": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-11": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-17": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-18": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-24": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-25": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-10-31": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-01": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-04": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-06": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": {
+        "nameRu": "День Конституции Республики Татарстан",
+        "nameTt": "Татарстан Республикасы Конституциясе көне"
+      }
+    },
+    "2026-11-07": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-08": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-14": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-15": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-21": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-22": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-28": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-29": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-11-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-05": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-06": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-12": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-13": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-19": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-20": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-26": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-27": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2026-12-31": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-01-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-02-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-03-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-04-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-05-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-06-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-07-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-08-30": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": {
+        "nameRu": "День Республики Татарстан",
+        "nameTt": "Татарстан Республикасы көне"
+      }
+    },
+    "2027-08-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-09-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-10-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-06": {
+      "isWorking": false,
+      "isShortened": false,
+      "holiday": {
+        "nameRu": "День Конституции Республики Татарстан",
+        "nameTt": "Татарстан Республикасы Конституциясе көне"
+      }
+    },
+    "2027-11-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-11-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-01": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-02": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-03": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-04": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-05": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-06": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-07": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-08": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-09": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-10": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-11": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-12": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-13": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-14": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-15": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-16": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-17": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-18": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-19": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-20": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-21": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-22": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-23": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-24": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-25": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-26": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-27": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-28": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-29": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-30": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    },
+    "2027-12-31": {
+      "isWorking": true,
+      "isShortened": false,
+      "holiday": null
+    }
+  }
+};

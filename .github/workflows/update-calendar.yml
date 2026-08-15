@@ -1,0 +1,44 @@
+name: Обновить календарь Татарстана
+
+on:
+  schedule:
+    - cron: "17 3 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendar
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Скачать репозиторий
+        uses: actions/checkout@v6
+
+      - name: Подключить Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      - name: Получить производственный календарь
+        env:
+          CALENDARIFIC_API_KEY: ${{ secrets.CALENDARIFIC_API_KEY }}
+        run: node scripts/update-calendar.mjs
+
+      - name: Сохранить изменения
+        run: |
+          if git diff --quiet -- data/calendar.json data/calendar-data.js; then
+            echo "Календарь не изменился"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/calendar.json data/calendar-data.js
+          git commit -m "Обновить календарь Татарстана"
+          git push
