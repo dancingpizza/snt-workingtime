@@ -1,5 +1,5 @@
 window.SNT_CALENDAR = {
-  "generatedAt": "2026-09-01T08:44:31.876Z",
+  "generatedAt": "2026-10-01T10:15:08.420Z",
   "years": [
     2026,
     2027
